@@ -1,1 +1,1 @@
-# Agglomerative-Clustering-How-it-works-Manual-calculation-
+# Agglometrative-Clustering-How-it-works-Manual-calculation-
